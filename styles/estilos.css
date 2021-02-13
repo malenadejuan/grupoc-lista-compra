@@ -52,4 +52,5 @@ a:hover {
 
 .contenidos, .lista {
   background-color: #FF8D27;
+  height: 100vh;
 }
