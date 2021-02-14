@@ -61,6 +61,10 @@ li {
   align-items: center;
 }
 
+li.marcado {
+  font-weight: bold;
+}
+
 p {
   margin: 0;
   padding: 5px;
