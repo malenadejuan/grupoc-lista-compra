@@ -45,3 +45,12 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+.comprados {
+  background-color: #F27405;
+}
+
+.contenidos, .lista {
+  background-color: #FF8D27;
+  height: 100vh;
+}
