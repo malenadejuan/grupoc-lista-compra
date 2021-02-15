@@ -47,12 +47,12 @@ section.lista ul {
 
 section.lista ul li {
   display: flex;
+  justify-content: space-between;
 }
 
 section.lista ul li div {
-  flex-grow: 4;
   display: flex;
-  justify-content: right;
+  align-items: center;
 }
 
 li {
